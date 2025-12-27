@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "272489690947",
+    "project_id": "newhorizontrav-58086",
+    "storage_bucket": "newhorizontrav-58086.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272489690947:android:4ea65fa108e9384e5961f6",
+        "android_client_info": {
+          "package_name": "com.newhorizontrav.newhorizontrav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272489690947-ph0o0s0aq5boficof23nkbnjg4j6j4nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newhorizontrav.newhorizontrav",
+            "certificate_hash": "e671f28b39be79a572c7db19ffb533bc0786a754"
+          }
+        },
+        {
+          "client_id": "272489690947-lfnoma8mmqrjfr3kr5aglajua5hogtgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnpEn1eUroqzh3--cD3f6WUlsCkW6ajw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272489690947-lfnoma8mmqrjfr3kr5aglajua5hogtgm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272489690947-kmkn2elel80385m2gpmjnf7oq50c9c6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newhorizontrav.newhorizontrav"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

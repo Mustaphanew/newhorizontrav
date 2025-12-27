@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">New Horizon Travel</string>
+
+    <string name="facebook_app_id">1134316042230163</string>
+    <string name="fb_login_protocol_scheme">fb1134316042230163</string>
+    <string name="facebook_client_token">82596f875663f59a385f019467bffa59</string>
+    
+</resources>
